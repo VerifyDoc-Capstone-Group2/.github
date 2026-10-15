@@ -216,6 +216,7 @@ For the full list, see Section 7 of the API Documentation.
 - [Employer Verification Guide](https://docs.google.com/document/d/1aTwabIQMn57Goa16QQGm_jxfqCbLQ35r4N2UZPiMT28/edit?usp=sharing)
 - [Institutions Onboarding Guide](https://docs.google.com/document/d/1uaduRzlzWMGfuIzgYmoo9AK7OT092FyZ7AdoN6OCEP8/edit?usp=sharing)
 - [FAQ](https://docs.google.com/document/d/1oNyp9LjCD3I7EB7yw0zGpnv3BwPQYL3trb7_1n0GJjc/edit?usp=sharing)
+- [Release Notes](https://docs.google.com/document/d/17Jv_hQmOwMNhncImGjpE4jOZL-GBC8HifVbSm7-5e-k/edit?usp=sharing)
 
 
 ## Team
