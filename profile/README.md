@@ -224,6 +224,7 @@ DEVS:
 - [Ogunyemi Michael](https://github.com/Mikedave001)
 
 WRITERS:
--[Chibuikem Iwuh](https://github.com/chibuikemiwuh5-svg)
--[Dada Marcus](https://github.com/Oluwafisayomi2280)
+- [Chibuikem Iwuh](https://github.com/chibuikemiwuh5-svg)
+- [Dada Marcus](https://github.com/Oluwafisayomi2280)
+
 
