@@ -219,7 +219,11 @@ For the full list, see Section 7 of the API Documentation.
 
 
 ## Team
-
+DEVS:
 - [Koto Temiloluwa John](https://github.com/John-2TB)
 - [Ogunyemi Michael](https://github.com/Mikedave001)
+
+WRITERS:
+-[Chibuikem Iwuh](https://github.com/chibuikemiwuh5-svg)
+-[Dada Marcus](https://github.com/Oluwafisayomi2280)
 
