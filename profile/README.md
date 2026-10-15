@@ -209,7 +209,7 @@ For the full list, see Section 7 of the API Documentation.
 
 ## Documentation
 
-- VerifyDoc API Documentation
+- [VerifyDoc API Documentation](https://docs.google.com/document/d/1NfgcazIqYFcM340yJ98HqJiwMsUWTTgMxd40L1UGCgw/edit?usp=sharing)
 - [Security Architecture Overview](https://docs.google.com/document/d/1XJ7mU80C--aRIkqZEewFGj0WDO3GHoFGTglIkPjNqc4/edit?usp=sharing)
 - [Data Privacy Policy](https://docs.google.com/document/d/1yJWnVVkSDYWXy123EUupszCdg2USfeDRLqdr_1_rl80/edit?usp=sharing)
 - [Citizen User Guide](https://docs.google.com/document/d/1sTqzy4zRkc2jMmii-lvlTfeo3RPbqS_41xG3aQN7Ibc/edit?usp=sharing)
