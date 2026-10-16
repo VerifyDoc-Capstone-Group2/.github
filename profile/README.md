@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | Version | 1.0 |
-| Status | Draft |
+| Status | Approved |
 | Last Updated | 15/10/2026 |
 | Owner | VerifyDoc |
 
